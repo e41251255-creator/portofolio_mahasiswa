@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58729789013",
+    "project_id": "polije-student-portofolio2",
+    "storage_bucket": "polije-student-portofolio2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58729789013:android:662f0b2e736b58fa3846dc",
+        "android_client_info": {
+          "package_name": "com.example.portofolio_ilma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1j1olE3T9lz0WwwL7SrZVIIb_KAcUHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
